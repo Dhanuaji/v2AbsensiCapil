@@ -8,6 +8,7 @@ public class V2AbsensiCapilApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(V2AbsensiCapilApplication.class, args);
+        System.out.println("Web running...");
     }
 
 }
