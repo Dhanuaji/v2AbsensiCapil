@@ -1,4 +1,4 @@
-package com.example.v2absensicapil.employees;
+package com.example.v2absensicapil.employees.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
